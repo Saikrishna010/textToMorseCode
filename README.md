@@ -1,3 +1,4 @@
 # textToMorseCode
 
-## this code converts text to morse code
+### Simple Python Program that coverts any given text into a morse code
+
